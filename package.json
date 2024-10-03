@@ -1,7 +1,15 @@
 {
-    "name": "projeto",
-    "version": "1.0.0",
-    "scripts": {
-      "test": "jest"
-    }
+  "name": "projeto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.0.0",
+    "@types/jest": "^29.0.0"
+  }
 }
